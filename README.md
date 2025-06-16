@@ -19,3 +19,6 @@ A simple and clean Todo List application built with **React**, **Vite**, and **T
 - LocalStorage
 
 ## 📦 Getting Started
+
+## 🎥 Demo
+https://www.loom.com/share/a196825fe8924367b22aeea2a5ed5410?sid=8c6bc88c-1f7e-404c-94d1-41618a329f17
